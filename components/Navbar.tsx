@@ -6,14 +6,14 @@ const navLinks = [
     name: "home",
     href: "/",
   },
-  {
-    name: "projects",
-    href: "/projects",
-  },
-  {
-    name: "contact",
-    href: "/contact",
-  },
+  // {
+  //   name: "projects",
+  //   href: "/projects",
+  // },
+  // {
+  //   name: "contact",
+  //   href: "/contact",
+  // },
 ];
 
 export default function Navbar() {

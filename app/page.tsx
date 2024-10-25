@@ -9,10 +9,10 @@ export default function Home() {
   return (
     <div className="mt-6 flex flex-col gap-16">
       {/* hero */}
-      <div className="flex flex-col gap-6">
+      <div className="flex flex-col md:my-5 gap-6">
         <div>
           <p className="text-[#FFFFE3] text-lg">Hello, I'm Aman</p>
-          <h1 className="font-bold text-4xl text-[#FFD074]">
+          <h1 className="font-bold text-3xl md:text-4xl text-[#FFD074]">
             Full Stack Developer
           </h1>
           <p className="mt-2 pl-1 text-[#FFFFE3]">// Based in India</p>
@@ -40,7 +40,7 @@ export default function Home() {
       {/* projects */}
       <section>
         <div className="flex justify-between items-center">
-          <h2 className="font-bold text-3xl text-[#A374FF]">Projects</h2>
+          <h2 className="font-bold text-2xl md:text-3xl text-[#A374FF]">Projects</h2>
           {/* <a href="#" target="_blank" rel="noopener noreferrer">
             View all
           </a> */}
