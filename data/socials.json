@@ -1,0 +1,19 @@
+{
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com/in/amandhiran",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "href": "https://github.com/amanDhiran",
+        "icon": "github"
+      },
+      {
+        "name": "Email",
+        "href": "mailto:amandhiran201@gmail.com",
+        "icon": "mail"
+      }
+    ]
+  }

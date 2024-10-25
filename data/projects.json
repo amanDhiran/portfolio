@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Homify",
+      "href": "/projects/homify.png",
+      "techStack": ["Nextjs", "TailwindCSS", "PostgreSQL", "Redis", "Prisma", "Stripe"],
+      "code": "https://github.com/amanDhiran/Homify-Furniture-store.git",
+      "live": "https://homifystore.vercel.app/",
+      "description": "A full stack e-commerce store for furniture with cart and checkout functionality."
+    },
+    {
+      "name": "PlayChess",
+      "href": "/projects/chess.png",
+      "techStack": ["Reactjs", "Expressjs", "PostgreSQL", "Typescript", "Prisma", "Websockets", "AWS EC2", "Nginx"],
+      "code": "https://github.com/amanDhiran/chess.git",
+      "live": "https://chess-aman-dev.vercel.app/",
+      "description": "Web app to play real-time chess with other users."
+    },
+    {
+      "name": "Moviez",
+      "href": "/projects/moviez.png",
+      "techStack": ["Reactjs", "TailwindCSS", "Redux Toolkit"],
+      "code": "https://github.com/amanDhiran/Moviez.git",
+      "live": "https://moviez-amand.vercel.app/",
+      "description": "Explore a collection of movies and shows, see their reviews, trailers and add the to your watchlist."
+    },
+    {
+      "name": "Filo",
+      "href": "/projects/filo.png",
+      "techStack": ["Nextjs", "TailwindCSS", "Ffmpeg", "Typescript"],
+      "code": "https://github.com/amanDhiran/Moviez.git",
+      "live": "https://filo-six.vercel.app/",
+      "description": "Ever needed to convert images from one type to another? Now made easy with Filo."
+    }
+  ]
+  
