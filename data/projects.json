@@ -5,7 +5,7 @@
       "techStack": ["Nextjs", "TailwindCSS", "PostgreSQL", "Redis", "Prisma", "Stripe"],
       "code": "https://github.com/amanDhiran/Homify-Furniture-store.git",
       "live": "https://homifystore.vercel.app/",
-      "description": "A full stack e-commerce store for furniture with cart and checkout functionality."
+      "description": "Designed and developed a full stack e-commerce store for furniture with cart and checkout functionality."
     },
     {
       "name": "PlayChess",
