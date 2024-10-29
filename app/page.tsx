@@ -14,7 +14,7 @@ export default function Home() {
           <h1 className="font-bold text-3xl md:text-5xl text-[#FFD074]">
             Full Stack Developer
           </h1>
-          <p className="mt-2 pl-1 text-[#FFFFE3]">// Based in India</p>
+          <p className="mt-2 pl-1 text-[#FFFFE3]">{'// Based in India'}</p>
         </div>
         <div className="flex gap-3">
           {data.socials.map((item) => (
